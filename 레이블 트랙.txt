@@ -1,13 +1,5 @@
-1 215 Save Your Tear -The Weeknd
-216 415 Blinding Lights -The Weeknd
-416 643 StarBoy -The Weeknd
-644 867 Can´t Feel My Face -The Weeknd
-868 1129 Die For You -The Weeknd
-1130 1365 Love me harder -The Weeknd
-1366 1602 In Your eyes -The Weeknd
-1603 1820 Reminder -The Weeknd
-1821 2096 I Feel it coming -The Weeknd
-2097 2326 In The night -The Weeknd
+
+2097 2326 In The night
 2327 2567 Too Late 
 2568 2766 Hawá 
 2767 3047 Faith 
